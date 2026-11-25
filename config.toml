@@ -1,0 +1,8 @@
+# Dashboard theme.
+# base: dark mode by default (viewers can still switch in Settings).
+# primaryColor: accent used for filter tags, sliders and the active tab. A
+# neutral purple from the Okabe-Ito palette, so widgets are not confused
+# with the hotel or "Cancelled" colours used in the charts.
+[theme]
+base = "dark"
+primaryColor = "#CC79A7"
