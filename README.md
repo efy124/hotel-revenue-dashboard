@@ -23,7 +23,7 @@ Python · pandas · NumPy · Streamlit · Plotly
 Requires Python 3.10 or later.
 
 ```bash
-git clone https://github.com/<your-username>/hotel-revenue-dashboard.git
+git clone https://github.com/efy124/hotel-revenue-dashboard.git
 cd hotel-revenue-dashboard
 
 python -m venv venv
